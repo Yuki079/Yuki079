@@ -15,5 +15,5 @@
 ---
 
 ## 📂 Projects
-- To-Do List App (PHP + MySQL)
+- To-Do List App 
 - Calculator app
