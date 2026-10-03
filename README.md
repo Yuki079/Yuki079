@@ -3,24 +3,22 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+Informatics+Student;%F0%9F%9A%80+Web+Development+Enthusiast;%F0%9F%8C%B1+Currently+learning:+PHP+%26+Laravel;%E2%9C%A8+Let's+build+something+cool!" alt="Typing SVG" />
   </a>
+  
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🔷 Tech Stack
 
-<div align="center">
+<img src="https://img.shields.io/badge/PHP-0EA5E9?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/LARAVEL-0EA5E9?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL" /> <img src="https://img.shields.io/badge/VUE-0EA5E9?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="VUE" /> <img src="https://img.shields.io/badge/JAVASCRIPT-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/HTML-0EA5E9?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/TAILWIND-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWIND" /> <img src="https://img.shields.io/badge/BOOTSTRAP-0EA5E9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" /> <img src="https://img.shields.io/badge/MYSQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" /> <img src="https://img.shields.io/badge/GIT-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /> <img src="https://img.shields.io/badge/GITHUB-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" />
 
-<img src="https://skillicons.dev/icons?i=php,laravel,py,js,vue,react,nodejs,html,css,tailwind,bootstrap,dart,flutter,mysql,git,github,vscode,postman&theme=dark&perline=7" alt="Tech stack" />
+## 🔷 Featured Projects
 
-</div>
+- 📘 [To-Do List App](https://github.com/Yuki079/todo-list)
+- 📘 [Calculator App](https://github.com/Yuki079/calculator)
+- 📘 [Room Booking System](https://github.com/Yuki079/Pinjamruang)
+- 📘 [Attendance System](https://github.com/Yuki079/Presensi)
 
----
-
-## 📁 Projects
-
-- ✅ **To-Do List App**
-- 🧮 **Calculator App**
 
 
 ---
